@@ -1,0 +1,11 @@
+/build/
+/dist/
+/database/
+derby.log
+/target
+.idea/
+*.iml
+app.log
+.classpath
+.project
+.settings/
